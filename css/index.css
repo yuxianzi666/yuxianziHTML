@@ -4,5 +4,34 @@
     font-size: 40px;
     color: #6cc1f7;
     text-align: center;
-    background-color: rgba(229, 255, 0, 0.464);
+}
+.a{
+    width: 100%;
+    height: auto;
+}
+.a .a1{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: left;
+}
+.a .a2{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: right;
+}
+.a .a3{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: left;
+    margin-top: 20px;
+}
+.a .a4{
+    width: 48%;
+    height: 100px;
+    background-color: #6cc1f7;
+    float: right;
+    margin-top: 20px;
 }
