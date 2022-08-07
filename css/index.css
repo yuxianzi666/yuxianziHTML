@@ -4,6 +4,7 @@
     font-size: 40px;
     color: #6cc1f7;
     text-align: center;
+    line-height: 100px;
 }
 .a{
     width: 100%;
@@ -14,6 +15,9 @@
     height: 100px;
     background-color: #6cc1f7;
     float: left;
+    text-align: center;
+    font-size: 30px;
+    line-height: 100px;
 }
 .a .a2{
     width: 48%;
