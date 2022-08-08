@@ -20,6 +20,7 @@
     line-height: 100px;
     margin-top: 20px;
     cursor:pointer;
+    transition: all 0.6s; /*过度动画*/
 }
 .a .a2{
     width: 48%;
@@ -31,6 +32,7 @@
     line-height: 100px;
     margin-top: 20px;
     cursor:pointer;
+    transition: all 0.6s;
 }
 .a .a1:hover,.a .a2:hover{
     transition: all 0.6s;
@@ -46,22 +48,35 @@
     font-size: 40px;
     color: #ff0000;
     cursor:pointer;
+    transition: all 0.6s;
+}
+.foot:hover{
+    font-size: 60px;
+    transition: all 0.6s;
 }
 .email{
     width: 50px;
     height: 50px;
     position: fixed;
-    right: 20px;
+    right: 25px;
     bottom: 40px;
 }
 .email img{
     max-width: 100%;
     max-height: 100%;
     cursor:pointer;
+    transition: all 0.6s;
+}
+.email img:hover{
+    max-width: 150%;
+    max-height: 150%;
+    cursor:pointer;
+    transition: all 0.6s;
 }
 .music1{
     width: 100%;
     position: fixed;
-    left: 20px;
+    left: 25px;
     bottom: 40px;
+    transition: all 0.6s;
 }
