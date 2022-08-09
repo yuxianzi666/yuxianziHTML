@@ -5,6 +5,7 @@
     color: #6cc1f7;
     text-align: center;
     line-height: 100px;
+    cursor: default;
 }
 .a{
     width: 100%;
@@ -19,7 +20,7 @@
     font-size: 30px;
     line-height: 100px;
     margin-top: 20px;
-    cursor:pointer;
+    cursor:pointer; /*鼠标样式*/
     transition: all 0.6s; /*过度动画*/
 }
 .a .a2{
@@ -68,8 +69,8 @@
     transition: all 0.6s;
 }
 .email img:hover{
-    max-width: 150%;
-    max-height: 150%;
+    max-width: 125%;
+    max-height: 125%;
     cursor:pointer;
     transition: all 0.6s;
 }
@@ -78,5 +79,5 @@
     position: fixed;
     left: 25px;
     bottom: 40px;
-    transition: all 0.6s;
+    display: none;
 }
