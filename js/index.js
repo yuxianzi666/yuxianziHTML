@@ -1,5 +1,5 @@
 var tittle = document.getElementById("tittle");
-tittle.onclick = function(){
+tittle.onclick = function(){  //标题点击事件
     var color1=Math.round(Math.random()*15).toString(16);
     var color2=Math.round(Math.random()*15).toString(16);
     var color3=Math.round(Math.random()*15).toString(16);
