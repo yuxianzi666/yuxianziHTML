@@ -11,3 +11,6 @@ tittle.onclick = function(){
     tittle.style.color="#"+color1+color2+color3+color4+color5+color6;
 }
 
+document.getElementById("music1").style.display=""; //控制播放器是否显示
+document.getElementById("email").style.display=""; //控制邮箱是否显示
+document.getElementById("foot").style.display=""; //控制GitHub项目主页：作者yuxianzi是否显示
