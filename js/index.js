@@ -12,5 +12,5 @@ tittle.onclick = function(){  //标题点击事件
 }
 
 document.getElementById("music1").style.display=""; //控制播放器是否显示
-document.getElementById("email").style.display=""; //控制邮箱是否显示
+document.getElementById("email").style.display="none"; //控制邮箱是否显示
 document.getElementById("foot").style.display="none"; //控制GitHub项目主页：作者yuxianzi是否显示
