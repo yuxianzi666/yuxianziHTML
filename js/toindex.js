@@ -1,1 +1,0 @@
-window.location.href("https://yuxianzihtml.vercel.app/");
